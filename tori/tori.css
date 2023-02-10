@@ -69,13 +69,14 @@ button {
 
     color: white;
     background-color: green;
-    text-decoration: none;
     font-size: large;
     width: 80px;
     height: 30px;
     border: none;
 }
-
+button a {
+    text-decoration: none;
+}
 
 
 .img img {
