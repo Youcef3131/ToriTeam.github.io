@@ -1,0 +1,125 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.formspace {
+    background: linear-gradient(289.54deg, #4870D6 19.87%, #48A68F 83.61%);
+    float: right;
+    height: 100%;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+
+}
+
+.logoside,
+.formspace {
+    width: 50%;
+    position: relative;
+
+
+}
+
+.logoside {
+    height: 100%;
+    background: linear-gradient(70.46deg, #4870D6 19.87%, #48A68F 83.61%);
+    float: left;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.register {
+    width: 1000px;
+    height: 850px;
+    margin: 80px auto;
+}
+
+.logospace {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: 275px auto;
+
+}
+
+#form1 {
+    width: 400px;
+    height: 640px;
+    margin: 30px auto;
+}
+
+.textabove {
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#free {
+    text-align: center;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+#logoimg {
+    height: 100%;
+    width: 100%;
+}
+
+input {
+    width: 100%;
+    padding: 2px 5px;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    margin-bottom: 15px;
+    border-radius: 15px;
+}
+
+.text2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-bottom: 7px;
+}
+
+#submit1 {
+    background-color: #220078;
+    color: rgb(252, 252, 252);
+    border: none;
+    height: 60px;
+    font-size: 25px;
+}
+
+form a {
+    text-align: center;
+    text-decoration: none;
+    border-bottom: solid 03px;
+    color: rgb(254, 254, 254);
+}
+
+.term {
+
+    margin: 20px auto;
+    display: flex;
+
+    height: 100px;
+    width: 90%;
+
+}
+
+.term input {
+    width: 30px;
+    height: 30px;
+    margin: auto 10px;
+}
+
+.term p {
+    margin: auto 10px;
+}
